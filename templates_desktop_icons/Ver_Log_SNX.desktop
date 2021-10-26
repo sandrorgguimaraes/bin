@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Ver log conexão SNX
+Comment=Ver log conexão SNX
+Exec=/home/sandro/bin/ver_logs.sh
+Icon=konsole
+Terminal=true
+Type=Application
+Name[pt_BR]=Ver log conexão SNX
+GenericName[pt_BR]=Ver log conexão SNX

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Apache Directory Studio
+Comment=Apache Directory Studio
+Exec=/home/sandro/ApacheDirectoryStudio/ApacheDirectoryStudio
+Icon=/home/sandro/ApacheDirectoryStudio/icon.xpm
+Type=Application
+Name[pt_BR]=Apache Directory Studio

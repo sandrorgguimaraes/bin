@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Desconectar SNX
+Comment=Desconetar SNX
+Exec=touch /tmp/snx.stop
+Icon=konsole
+Terminal=true
+Type=Application
+Name[pt_BR]=Desconectar SNX

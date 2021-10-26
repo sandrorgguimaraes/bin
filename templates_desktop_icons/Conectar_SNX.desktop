@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Conectar SNX
+Comment=Gerenciar conexão à SNX
+Exec=/home/sandro/bin/snx_conectar.sh
+Icon=konsole
+Terminal=true
+Type=Application
+Name[pt_BR]=Conectar SNX
